@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI/Llama 2.md",
+                "file": "Computer Science/Introduction To Algorithms/Chapter 1- The Role of Algorithms in Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI/Llama 2.md",
+                "file": "Computer Science/Introduction To Algorithms/Chapter 1- The Role of Algorithms in Computing.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/AI/Llama 2.md",
+                "file": "Computer Science/Introduction To Algorithms/Chapter 1- The Role of Algorithms in Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/AI/Llama 2.md"
+                "file": "Computer Science/Introduction To Algorithms/Chapter 1- The Role of Algorithms in Computing.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "94b905ca131b218a",
   "lastOpenFiles": [
-    "Computer Science/AI/GPT.md",
     "Computer Science/AI/Llama 2.md",
+    "Computer Science/Introduction To Algorithms/Chapter 1- The Role of Algorithms in Computing.md",
+    "Computer Science/Introduction To Algorithms",
+    "Computer Science/AI/GPT.md",
     "Computer Science/AI/Transformer Architecture.md",
     "Computer Science/AI/LLM Overview.md",
-    "Images/LLM Training Stages.png",
-    "Images/LLM Transformer.png",
-    "Images/Next Word Neural Network.png",
-    "Images",
+    "Computer Science/AI/LLM Training Stages.png",
+    "Computer Science/AI/LLM Transformer.png",
+    "Computer Science/AI/Next Word Neural Network.png",
+    "Computer Science/Images",
     "Pasted image 20240309091525.png",
     "Pasted image 20240309092722.png",
     "Computer Science/AI/LLM/Models",

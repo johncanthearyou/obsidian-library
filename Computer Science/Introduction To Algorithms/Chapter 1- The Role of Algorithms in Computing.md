@@ -1,0 +1,2 @@
+**1.1-1) Give a real-world example that requires sorting or a real-world example that required computing a convex hull.**
+    Marketplace websites (such as Amazon, eBay, etc) sorting by ascending price, descending price, relevance rely on sorting methods.

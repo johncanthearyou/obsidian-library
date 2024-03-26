@@ -6,4 +6,6 @@
 * Memory usage, mental complexity, or correctness
 
 **1.1-3) Select a data structure that you have seen previously and discuss its strengths and limitations**
-* Array data structure., a linear 
+* Binary Tree: fast searches, memory intensive, insertions can be intensive
+
+**1.1-4) **
